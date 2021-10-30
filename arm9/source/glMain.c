@@ -1,15 +1,15 @@
 #include <math.h>
 #include <stdlib.h>
-#include "DOOMDEF.h"
-#include "R_local.h"
-#include "map.h"
+#include "heretic/include/DOOMDEF.h"
+#include "heretic/include/R_LOCAL.h"
+#include "heretic/include/map.h"
 #ifdef WIN32
 #include <gl\gl.h>
 extern HWND openGL;
 #define TEXGEN_TEXCOORD 0
 #endif
-#include "geometry.h"
-#include "ds_textures.h"
+#include "heretic/include/geometry.h"
+#include "heretic/include/ds_textures.h"
 
 int					r_framecount = 0;
 
