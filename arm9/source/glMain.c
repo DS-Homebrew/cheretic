@@ -1,6 +1,6 @@
 #include <math.h>
 #include <stdlib.h>
-#include "DoomDef.h"
+#include "DOOMDEF.h"
 #include "R_local.h"
 #include "map.h"
 #ifdef WIN32

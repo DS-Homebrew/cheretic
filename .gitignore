@@ -1,0 +1,7 @@
+
+arm7/cheretic.elf
+arm9/cheretic.elf
+cheretic.nds
+*.o
+arm7/build
+arm9/build
