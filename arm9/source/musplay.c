@@ -3,7 +3,7 @@
 #endif
 #include <stdint.h>
 #include "musfifo.h"
-#include "DoomDef.h"
+#include "doomdef.h"
 
 #ifdef WIN32
 #define iprintf printf

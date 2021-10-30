@@ -1,5 +1,5 @@
-#include "DOOMDEF.h"
-#include "DOOMDATA.h"
+#include "doomdef.h"
+#include "doomdata.h"
 
 #ifdef ARM9
 #include "keyboard.h"

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "DoomDef.h"
+#include "doomdef.h"
 
 #define ZONEID2 0x1d4a
 #define PU_FREE -1

@@ -1,6 +1,6 @@
 #if 0
 
-#include "DoomDef.h"
+#include "doomdef.h"
 #include "ds_textures.h"
 
 int tex_cb_flats = 0;

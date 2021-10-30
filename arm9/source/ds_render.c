@@ -1,8 +1,8 @@
 #include <math.h>
 #include <stdlib.h>
 #include <malloc.h>
-#include "DoomDef.h"
-#include "R_local.h"
+#include "doomdef.h"
+#include "r_local.h"
 #include "map.h"
 #ifdef WIN32
 #include <gl\gl.h>
@@ -11,8 +11,8 @@ extern HWND openGL;
 #endif
 
 #ifdef ARM9
-#include <nds\arm9\videogl.h>
-#include <nds\arm9\postest.h>
+#include <nds/arm9/videoGL.h>
+#include <nds/arm9/postest.h>
 int ds_anti_alias_id = 0;
 #else
 #define TEXGEN_TEXCOORD 0

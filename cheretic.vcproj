@@ -372,31 +372,31 @@
 				Name="include"
 				>
 				<File
-					RelativePath=".\heretic\include\AM_DATA.H"
+					RelativePath=".\heretic\include\am_data.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\AM_MAP.H"
+					RelativePath=".\heretic\include\am_map.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\DOOMDATA.H"
+					RelativePath=".\heretic\include\doomdata.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\DOOMDEF.H"
+					RelativePath=".\heretic\include\doomdef.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\DSTRINGS.H"
+					RelativePath=".\heretic\include\dstrings.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\I_SOUND.H"
+					RelativePath=".\heretic\include\i_sound.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\INFO.H"
+					RelativePath=".\heretic\include\info.h"
 					>
 				</File>
 				<File
@@ -436,7 +436,7 @@
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\P_SPEC.H"
+					RelativePath=".\heretic\include\p_spec.h"
 					>
 				</File>
 				<File
@@ -448,7 +448,7 @@
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\R_LOCAL.H"
+					RelativePath=".\heretic\include\r_local.h"
 					>
 				</File>
 				<File
@@ -456,11 +456,11 @@
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\SOUNDS.H"
+					RelativePath=".\heretic\include\sounds.h"
 					>
 				</File>
 				<File
-					RelativePath=".\heretic\include\SOUNDST.H"
+					RelativePath=".\heretic\include\soundst.h"
 					>
 				</File>
 			</Filter>
@@ -522,7 +522,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\arm9\heretic\include\I_SOUND.H"
+			RelativePath=".\arm9\heretic\include\i_sound.h"
 			>
 		</File>
 		<File
